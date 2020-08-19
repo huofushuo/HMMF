@@ -15,7 +15,7 @@ Avg = mean2(imP).^(1/p);
 
 
 delta = (max([R_avg G_avg B_avg])- min([R_avg G_avg B_avg]));
-if(delta < 0.1)
+if(delta < 0.15)
 out = im;
 else  
 k = [R_avg G_avg B_avg]./Avg;
