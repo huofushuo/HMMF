@@ -1,5 +1,5 @@
 
-% source code is for paper:
+% source code for paper:
 
 
 % Fast Fusion-based Dehazing With Histogram Modification and Improved Atmospheric Illumination Prior
